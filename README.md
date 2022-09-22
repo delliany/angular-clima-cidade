@@ -1,6 +1,14 @@
-# AngularClimaCidade
+# Clima da Cidade
+
+Pesquisar as condições climáticas atuais usando o nome de uma cidade, com requisição a API Open Weather Map
+
+http://openweathermap.org/api
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
+
+## Teste da Aplicação
+
+Instale os pacotes Node.js e execute o comando `ng serve` no terminal, depois acesse o link para da aplicação `http://localhost:4200/`
 
 ## Development server
 
@@ -25,3 +33,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
